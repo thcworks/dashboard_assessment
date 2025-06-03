@@ -1,23 +1,26 @@
 # Review Dashboard Assessment
 
-This is a submission for the take-home assessment to build a dashboard summarising behavioural review scores for employees, based on feedback from peers, managers, and direct reports.
+## 📝 Task Description
+Using the provided dataset, build a small, functional app or dashboard that summarizes review scores for employees, based on feedback from peers, managers, and direct reports.
+
+The dashboard should allow users to:
+- ✅ Filter by one or more populations
+- ✅ Select users within those populations
+- ✅ View behavioural scores from different review sources (self, peer, manager, direct report)
+
+**Estimated time to complete:** 3–4 hours
+
+_Focus on clear thinking, usability, and maintainable code. It’s okay to skip polish—just add a note on what you'd do with more time._
 
 ---
 
 ## 🔧 Tools Used
 
 > ⚠️ **Note:**  
-> While we’re open to submissions using a variety of tools (e.g., Streamlit, Tableau, Excel), our core platform is built in **R and Shiny**, so **submissions using R/Shiny will be prioritised** in the review process.  
+> While we’re open to Python submissions, our core platform is built in **R and Shiny**, so **submissions using R/Shiny will be prioritised** in the review process.  
 >  
 > That said, if another tool better showcases your strengths, please feel free to use it—we value thoughtful, well-structured work above all.
 
-This project was completed using:
-
-> Example:
-- Python with Streamlit
-- R with Shiny
-- Excel with interactive charts
-- Tableau
 
 We encourage using tools you're most comfortable with while meeting the core goal: creating a clear, insightful, and maintainable summary dashboard.
 
@@ -57,11 +60,6 @@ We encourage using tools you're most comfortable with while meeting the core goa
    streamlit run app.py
    ```
 
-### **For Tableau / Power BI / Excel:**
-
-- Open the `.twbx`, `.pbix`, or `.xlsx` file included in the repo or zip
-- Follow steps in the `README` or in-app notes for filters and views
-
 ---
 
 ## 🧩 Answers to Assessment Questions
@@ -91,7 +89,7 @@ If deployed:
 project/
 ├── data/
 │   └── review_scores.csv
-├── app.R / app.py / dashboard.twbx
+├── app.R / app.py 
 ├── README.md
 ├── requirements.txt (if Python)
 └── screenshots/
