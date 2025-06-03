@@ -6,6 +6,11 @@ This is a submission for the take-home assessment to build a dashboard summarisi
 
 ## 🔧 Tools Used
 
+> ⚠️ **Note:**  
+> While we’re open to submissions using a variety of tools (e.g., Streamlit, Tableau, Excel), our core platform is built in **R and Shiny**, so **submissions using R/Shiny will be prioritised** in the review process.  
+>  
+> That said, if another tool better showcases your strengths, please feel free to use it—we value thoughtful, well-structured work above all.
+
 This project was completed using:
 
 > Example:
