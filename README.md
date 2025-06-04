@@ -18,11 +18,7 @@ _Focus on clear thinking, usability, and maintainable code. It’s okay to skip 
 
 > ⚠️ **Note:**  
 > While we’re open to Python submissions, our core platform is built in **R and Shiny**, so **submissions using R/Shiny will be prioritised** in the review process.  
->  
-> That said, if another tool better showcases your strengths, please feel free to use it—we value thoughtful, well-structured work above all.
 
-
-We encourage using tools you're most comfortable with while meeting the core goal: creating a clear, insightful, and maintainable summary dashboard.
 
 ---
 
