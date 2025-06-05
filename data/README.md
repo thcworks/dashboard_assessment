@@ -42,5 +42,8 @@ Reviewers and reviewees are grouped into **populations**, which represent organi
 
 This dataset contains **fabricated but realistic behavioural review data**.  
 Some patterns (e.g., bias in scores, missing data, demographic imbalances) have been deliberately included to support analysis and insight generation.  
+
+We encourage you to explore the data and highlight one interesting insight in your submission. We’re curious about what you notice, how you interpret it, and how you communicate it.
+
 **No real individuals are represented.**
 
