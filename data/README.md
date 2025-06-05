@@ -37,3 +37,11 @@ Reviewers and reviewees are grouped into **populations**, which represent organi
 - Each `review_id` may include multiple rows (one per behaviour).
 - Reviewees and reviewers can belong to different populations.
 - Behaviour scores can be used to analyze trends, compare self vs. peer perception, and evaluate cultural patterns across identity dimensions.
+# Honeycomb Test Dataset
+
+📌 **Important Notice**
+
+This dataset contains **fabricated but realistic behavioural review data**.  
+Some patterns (e.g., bias in scores, missing data, demographic imbalances) have been deliberately included to support analysis and insight generation.  
+**No real individuals are represented.**
+
