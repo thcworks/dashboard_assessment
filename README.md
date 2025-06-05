@@ -8,6 +8,14 @@ The dashboard should allow users to:
 - ✅ Select users within those populations
 - ✅ View behavioural scores from different review sources (self, peer, manager, direct report)
 
+  
+## Share a Visual Insight
+
+As part of your submission, please:
+
+🔍 Identify one interesting pattern, gap, or insight in the dataset and present it using a visualisation.
+This could be a chart, graph, or visual summary that highlights something meaningful.
+
 **Estimated time to complete:** 3–4 hours
 
 _Focus on clear thinking, usability, and maintainable code. It’s okay to skip polish—just add a note on what you'd do with more time._
